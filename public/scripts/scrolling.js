@@ -1,4 +1,3 @@
-
 var animData = {
     container: document.getElementById('container'),
     renderer: 'svg',
